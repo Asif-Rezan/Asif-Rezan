@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on machine learning and web application development.
 - 📫 How to reach me ... My website : asifrezan.com & Email: asifrezan@gmail.com
 
-  <figure><embed src="https://wakatime.com/share/@AsifRezan/33b7091b-02c2-4b31-b8b1-5f21165615cb.svg"></embed></figure>
+
+<img src="https://wakatime.com/share/@AsifRezan/33b7091b-02c2-4b31-b8b1-5f21165615cb.svg"  width="500" height="600">
+
+
 
 <!---
 Asif-Rezan/Asif-Rezan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
