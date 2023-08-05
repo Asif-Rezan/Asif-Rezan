@@ -5,7 +5,7 @@
 - 📫 How to reach me ... My website : asifrezan.com & Email: asifrezan@gmail.com
 
 
-<img src="https://wakatime.com/share/@AsifRezan/33b7091b-02c2-4b31-b8b1-5f21165615cb.svg"  width="500" height="600">
+<img src="https://wakatime.com/share/@AsifRezan/466548be-31fe-429b-b091-585536d42cb3.svg">
 
 
 
