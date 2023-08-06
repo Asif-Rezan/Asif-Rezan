@@ -1,9 +1,5 @@
-
-<h1 align="center">👋 Hi there, I'm Asif Rezan</h1>
-
-
 - 👋 Hi, I’m @Asif-Rezan
-- 👀 I’m interested in artificial intelligence and machine learning.
+- 👀 I’m Software Engineer, Working on Android Application Development.
 - 🌱 I’m currently learning artificial intelligence and single page web application with react and django.
 - 💞️ I’m looking to collaborate on machine learning and web application development.
 - 📫 How to reach me ... My website : asifrezan.com & Email: asifrezan@gmail.com
