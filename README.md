@@ -4,9 +4,10 @@
 - 💞️ I’m looking to collaborate on machine learning and web application development.
 - 📫 How to reach me ... My website : asifrezan.com & Email: asifrezan@gmail.com
 
-
-<img src="https://wakatime.com/share/@AsifRezan/edb3ec51-3759-47ab-bbf2-da7f47500f4e.svg" width='50%'>
-
+<div style="display: flex;">
+  <img src="https://wakatime.com/share/@AsifRezan/edb3ec51-3759-47ab-bbf2-da7f47500f4e.svg" width='50%' style="margin-right: 10px;">
+  <img src="https://wakatime.com/share/@AsifRezan/ad1683c9-7ada-4e1b-868f-b3de4714ceec.svg" width='50%'>
+</div>
 
 
 <!---
