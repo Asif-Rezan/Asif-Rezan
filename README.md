@@ -3,7 +3,7 @@
 
 <p align="center">
 <!--   <img src="https://wakatime.com/share/@AsifRezan/edb3ec51-3759-47ab-bbf2-da7f47500f4e.svg" width="45%"> -->
-  <img src="https://wakatime.com/share/@AsifRezan/ad1683c9-7ada-4e1b-868f-b3de4714ceec.svg" width="45%">
+  <img src="https://wakatime.com/share/@AsifRezan/ad1683c9-7ada-4e1b-868f-b3de4714ceec.svg">
 </p>
 
 <p align="center">Welcome to my GitHub profile! I am a passionate learner and enthusiast in the field of artificial intelligence and software development.</p>
