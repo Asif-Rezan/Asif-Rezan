@@ -4,19 +4,10 @@
 - 💞️ I’m looking to collaborate on machine learning and web application development.
 - 📫 How to reach me ... My website : asifrezan.com & Email: asifrezan@gmail.com
 
-<!---
+
 <p align="center">
-  <img src="https://wakatime.com/share/@AsifRezan/ad1683c9-7ada-4e1b-868f-b3de4714ceec.svg">
+  <img src="https://wakatime.com/share/@770cee37-fd1f-43e0-9273-dd3d33cf76fa/f649192c-7c00-430f-ab46-667cc48a6441.svg">
 </p>
---->
-
-
-
-
-
-
-
-
 
 
 
