@@ -5,17 +5,22 @@
 - 📫 How to reach me ... My website : asifrezan.com & Email: asifrezan@gmail.com
 
 
-## 📈 Coding Activity
+## 📊 Coding Activity
 
-### 📊 Time Spent on Projects
+<div align="center">
 
-![Coding Activity Graph](https://wakatime.com/share/@770cee37-fd1f-43e0-9273-dd3d33cf76fa/57581972-9719-43d2-817a-17935ad5f67c.svg)
+  <img src="https://wakatime.com/share/@770cee37-fd1f-43e0-9273-dd3d33cf76fa/57581972-9719-43d2-817a-17935ad5f67c.svg" width="45%" />
+  <img src="https://wakatime.com/share/@770cee37-fd1f-43e0-9273-dd3d33cf76fa/57581972-9719-43d2-817a-17935ad5f67c.svg" width="45%" />
 
-### 💻 Weekly Breakdown
+  <br><br>
 
-![Weekly Breakdown](https://wakatime.com/share/@770cee37-fd1f-43e0-9273-dd3d33cf76fa/865392a2-f29b-4cdb-a0fe-5248e2f02304.svg)
+  <img src="https://wakatime.com/share/@770cee37-fd1f-43e0-9273-dd3d33cf76fa/57581972-9719-43d2-817a-17935ad5f67c.svg" width="45%" />
+  <img src="https://wakatime.com/share/@770cee37-fd1f-43e0-9273-dd3d33cf76fa/865392a2-f29b-4cdb-a0fe-5248e2f02304.svg" width="45%" />
+
+</div>
 
 ---
 
-📌 *This section updates automatically based on my recent coding activity.*
+📌 *Automatically updated based on recent development.*
+
 
