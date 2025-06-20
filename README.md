@@ -9,8 +9,8 @@
 
 <div align="center">
 
-  <img src="https://wakatime.com/share/@770cee37-fd1f-43e0-9273-dd3d33cf76fa/1a5f5f45-9540-48fb-8fef-4d5bd728fcf3.svg" width="45%" />
-  <img src="https://wakatime.com/share/@770cee37-fd1f-43e0-9273-dd3d33cf76fa/8958193a-a16f-41b5-8cdd-f1ab68907faa.svg" width="45%" />
+  <img src="https://wakatime.com/share/@770cee37-fd1f-43e0-9273-dd3d33cf76fa/1a5f5f45-9540-48fb-8fef-4d5bd728fcf3.svg" width="100%" />
+ 
 
 </div>
 
