@@ -1,8 +1,6 @@
 # 👋 Hi, I’m **MD. Shahriar Asif Rezan**
 
 **Flutter, Android (Kotlin) & iOS (SwiftUI) Developer**
-**Software Engineer at Betopia Group**
-
 Building high-performance mobile apps for Android, iOS, and Web using modern, scalable, and maintainable architectures.
 
 ---
