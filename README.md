@@ -1,7 +1,7 @@
 <p align="center">
   <h1>👋 Hi, I’m <b>MD. Shahriar Asif Rezan</b></h1>
   <strong>Flutter, Android (Kotlin) & iOS (SwiftUI) Developer</strong><br>
-  Building high-performance mobile apps for Android, iOS, and Web using modern, scalable, and maintainable architectures.
+  Building high-performance mobile apps for Android and iOS using modern, scalable, and maintainable architectures.
 </p>
 
 ---
