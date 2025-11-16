@@ -23,5 +23,5 @@ I enjoy building products that solve real business problems with clean code, smo
 
 ## 🌐 Connect With Me
 
-🔗 **LinkedIn:** *Please provide your URL so I can insert it properly*
+🔗 **LinkedIn:** [https://bd.linkedin.com/in/asif-rezan](https://bd.linkedin.com/in/asif-rezan)
 📧 **Email:** [asifrezan@gmail.com](mailto:asifrezan@gmail.com)
